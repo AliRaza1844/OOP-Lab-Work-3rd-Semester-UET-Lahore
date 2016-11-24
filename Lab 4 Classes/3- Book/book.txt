@@ -1,0 +1,11 @@
+Title					Auther				Price			Pages
+------------------------------------------------------------------------------------------------------------------
+OOP in C++.                             Robert Lafore.			100			200
+
+Absolute C.                             W Savitch.			235			355
+
+Electric Circuits Fundamentals.         Sergio Franco.			450			500
+
+Thomas Calculas.                        Thomas.				650			752
+
+Linear Algebra.                         Gilbert Strang.			352			451
