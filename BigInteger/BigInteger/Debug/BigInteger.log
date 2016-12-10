@@ -1,0 +1,9 @@
+﻿  BigInt.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\1 - uet lahore\3rd semester\object oriented programming\projects\bigint\biginteger\biginteger\main.cpp(16): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\1 - uet lahore\3rd semester\object oriented programming\projects\bigint\biginteger\biginteger\main.cpp(30): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  BigInteger.vcxproj -> E:\1 - UET Lahore\3rd Semester\Object Oriented Programming\Projects\BigInt\BigInteger\Debug\BigInteger.exe
+  BigInteger.vcxproj -> E:\1 - UET Lahore\3rd Semester\Object Oriented Programming\Projects\BigInt\BigInteger\Debug\BigInteger.pdb (Partial PDB)
